@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XoomCountriesExcercise</string>
+    <string name="rest_error">An error has occurred. Please try again later.</string>
+    <string name="countries_retry">Retry operation</string>
+</resources>
